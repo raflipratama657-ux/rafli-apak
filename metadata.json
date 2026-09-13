@@ -1,0 +1,6 @@
+{
+  "name": "Murajaah Al-Qur'an",
+  "description": "Aplikasi muraja'ah Al-Qur'an 30 juz dengan pelacak progres hafalan harian, pengingat murajaah & waktu sholat, rekaman suara evaluasi mandiri, komunitas penghafal, dan papan peringkat mingguan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
